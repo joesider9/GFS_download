@@ -1,0 +1,589 @@
+,0,1,2
+0,1,Cloud mixing ratio,1
+1,2,Ice water mixing ratio,1
+2,3,Rain mixing ratio,1
+3,4,Snow mixing ratio,1
+4,5,Graupel (snow pellets),1
+5,6,Maximum/Composite radar reflectivity,0
+6,7,Visibility,0
+7,8,U component of wind,0
+8,9,V component of wind,0
+9,10,Ventilation Rate,0
+10,11,Wind speed (gust),0
+11,12,Geopotential Height,40
+12,13,Temperature,40
+13,14,Absolute vorticity,40
+14,15,Ozone mixing ratio,40
+15,16,Geopotential Height,1
+16,17,Temperature,1
+17,18,Relative humidity,1
+18,19,U component of wind,1
+19,20,V component of wind,1
+20,21,Ozone mixing ratio,1
+21,22,Geopotential Height,2
+22,23,Temperature,2
+23,24,Relative humidity,2
+24,25,U component of wind,2
+25,26,V component of wind,2
+26,27,Ozone mixing ratio,2
+27,28,Geopotential Height,3
+28,29,Temperature,3
+29,30,Relative humidity,3
+30,31,U component of wind,3
+31,32,V component of wind,3
+32,33,Ozone mixing ratio,3
+33,34,Geopotential Height,5
+34,35,Temperature,5
+35,36,Relative humidity,5
+36,37,U component of wind,5
+37,38,V component of wind,5
+38,39,Ozone mixing ratio,5
+39,40,Geopotential Height,7
+40,41,Temperature,7
+41,42,Relative humidity,7
+42,43,U component of wind,7
+43,44,V component of wind,7
+44,45,Ozone mixing ratio,7
+45,46,Geopotential Height,10
+46,47,Temperature,10
+47,48,Relative humidity,10
+48,49,U component of wind,10
+49,50,V component of wind,10
+50,51,Absolute vorticity,10
+51,52,Ozone mixing ratio,10
+52,53,Geopotential Height,15
+53,54,Temperature,15
+54,55,Absolute vorticity,15
+55,56,Ozone mixing ratio,15
+56,57,Geopotential Height,20
+57,58,Temperature,20
+58,59,Relative humidity,20
+59,60,U component of wind,20
+60,61,V component of wind,20
+61,62,Absolute vorticity,20
+62,63,Ozone mixing ratio,20
+63,64,Geopotential Height,30
+64,65,Temperature,30
+65,66,Relative humidity,30
+66,67,U component of wind,30
+67,68,V component of wind,30
+68,69,Absolute vorticity,30
+69,70,Ozone mixing ratio,30
+70,71,Geopotential Height,40
+71,72,Temperature,40
+72,73,Absolute vorticity,40
+73,74,Ozone mixing ratio,40
+74,75,Geopotential Height,50
+75,76,Temperature,50
+76,77,Relative humidity,50
+77,78,Total Cloud Cover,50
+78,79,U component of wind,50
+79,80,V component of wind,50
+80,81,Absolute vorticity,50
+81,82,Cloud mixing ratio,50
+82,83,Ice water mixing ratio,50
+83,84,Rain mixing ratio,50
+84,85,Snow mixing ratio,50
+85,86,Graupel (snow pellets),50
+86,87,Ozone mixing ratio,50
+87,88,Geopotential Height,70
+88,89,Temperature,70
+89,90,Relative humidity,70
+90,91,U component of wind,70
+91,92,V component of wind,70
+92,93,Absolute vorticity,70
+93,94,Ozone mixing ratio,70
+94,95,Geopotential Height,100
+95,96,Temperature,100
+96,97,Relative humidity,100
+97,98,Total Cloud Cover,100
+98,99,Vertical velocity,100
+99,100,Geometric vertical velocity,100
+100,101,U component of wind,100
+101,102,V component of wind,100
+102,103,Absolute vorticity,100
+103,104,Cloud mixing ratio,100
+104,105,Ice water mixing ratio,100
+105,106,Rain mixing ratio,100
+106,107,Snow mixing ratio,100
+107,108,Graupel (snow pellets),100
+108,109,Icing severity,100
+109,110,Ozone mixing ratio,100
+110,111,Geopotential Height,150
+111,112,Temperature,150
+112,113,Relative humidity,150
+113,114,Total Cloud Cover,150
+114,115,Vertical velocity,150
+115,116,Geometric vertical velocity,150
+116,117,U component of wind,150
+117,118,V component of wind,150
+118,119,Absolute vorticity,150
+119,120,Cloud mixing ratio,150
+120,121,Ice water mixing ratio,150
+121,122,Rain mixing ratio,150
+122,123,Snow mixing ratio,150
+123,124,Graupel (snow pellets),150
+124,125,Icing severity,150
+125,126,Ozone mixing ratio,150
+126,127,Geopotential Height,200
+127,128,Temperature,200
+128,129,Relative humidity,200
+129,130,Total Cloud Cover,200
+130,131,Vertical velocity,200
+131,132,Geometric vertical velocity,200
+132,133,U component of wind,200
+133,134,V component of wind,200
+134,135,Absolute vorticity,200
+135,136,Cloud mixing ratio,200
+136,137,Ice water mixing ratio,200
+137,138,Rain mixing ratio,200
+138,139,Snow mixing ratio,200
+139,140,Graupel (snow pellets),200
+140,141,Icing severity,200
+141,142,Ozone mixing ratio,200
+142,143,Geopotential Height,250
+143,144,Temperature,250
+144,145,Relative humidity,250
+145,146,Total Cloud Cover,250
+146,147,Vertical velocity,250
+147,148,Geometric vertical velocity,250
+148,149,U component of wind,250
+149,150,V component of wind,250
+150,151,Absolute vorticity,250
+151,152,Cloud mixing ratio,250
+152,153,Ice water mixing ratio,250
+153,154,Rain mixing ratio,250
+154,155,Snow mixing ratio,250
+155,156,Graupel (snow pellets),250
+156,157,Icing severity,250
+157,158,Ozone mixing ratio,250
+158,159,Geopotential Height,300
+159,160,Temperature,300
+160,161,Relative humidity,300
+161,162,Total Cloud Cover,300
+162,163,Vertical velocity,300
+163,164,Geometric vertical velocity,300
+164,165,U component of wind,300
+165,166,V component of wind,300
+166,167,Absolute vorticity,300
+167,168,Cloud mixing ratio,300
+168,169,Ice water mixing ratio,300
+169,170,Rain mixing ratio,300
+170,171,Snow mixing ratio,300
+171,172,Graupel (snow pellets),300
+172,173,Icing severity,300
+173,174,Ozone mixing ratio,300
+174,175,Geopotential Height,350
+175,176,Temperature,350
+176,177,Relative humidity,350
+177,178,Total Cloud Cover,350
+178,179,Vertical velocity,350
+179,180,Geometric vertical velocity,350
+180,181,U component of wind,350
+181,182,V component of wind,350
+182,183,Absolute vorticity,350
+183,184,Cloud mixing ratio,350
+184,185,Ice water mixing ratio,350
+185,186,Rain mixing ratio,350
+186,187,Snow mixing ratio,350
+187,188,Graupel (snow pellets),350
+188,189,Icing severity,350
+189,190,Ozone mixing ratio,350
+190,191,Geopotential Height,400
+191,192,Temperature,400
+192,193,Relative humidity,400
+193,194,Total Cloud Cover,400
+194,195,Vertical velocity,400
+195,196,Geometric vertical velocity,400
+196,197,U component of wind,400
+197,198,V component of wind,400
+198,199,Absolute vorticity,400
+199,200,Cloud mixing ratio,400
+200,201,Ice water mixing ratio,400
+201,202,Rain mixing ratio,400
+202,203,Snow mixing ratio,400
+203,204,Graupel (snow pellets),400
+204,205,Icing severity,400
+205,206,Ozone mixing ratio,400
+206,207,Geopotential Height,450
+207,208,Temperature,450
+208,209,Relative humidity,450
+209,210,Total Cloud Cover,450
+210,211,Vertical velocity,450
+211,212,Geometric vertical velocity,450
+212,213,U component of wind,450
+213,214,V component of wind,450
+214,215,Absolute vorticity,450
+215,216,Cloud mixing ratio,450
+216,217,Ice water mixing ratio,450
+217,218,Rain mixing ratio,450
+218,219,Snow mixing ratio,450
+219,220,Graupel (snow pellets),450
+220,221,Icing severity,450
+221,222,Geopotential Height,500
+222,223,Temperature,500
+223,224,Relative humidity,500
+224,225,Total Cloud Cover,500
+225,226,Vertical velocity,500
+226,227,Geometric vertical velocity,500
+227,228,U component of wind,500
+228,229,V component of wind,500
+229,230,Absolute vorticity,500
+230,231,Cloud mixing ratio,500
+231,232,Ice water mixing ratio,500
+232,233,Rain mixing ratio,500
+233,234,Snow mixing ratio,500
+234,235,Graupel (snow pellets),500
+235,236,Icing severity,500
+236,237,Ozone mixing ratio,500
+237,238,Geopotential Height,550
+238,239,Temperature,550
+239,240,Relative humidity,550
+240,241,Total Cloud Cover,550
+241,242,Vertical velocity,550
+242,243,Geometric vertical velocity,550
+243,244,U component of wind,550
+244,245,V component of wind,550
+245,246,Absolute vorticity,550
+246,247,Cloud mixing ratio,550
+247,248,Ice water mixing ratio,550
+248,249,Rain mixing ratio,550
+249,250,Snow mixing ratio,550
+250,251,Graupel (snow pellets),550
+251,252,Icing severity,550
+252,253,Geopotential Height,600
+253,254,Temperature,600
+254,255,Relative humidity,600
+255,256,Total Cloud Cover,600
+256,257,Vertical velocity,600
+257,258,Geometric vertical velocity,600
+258,259,U component of wind,600
+259,260,V component of wind,600
+260,261,Absolute vorticity,600
+261,262,Cloud mixing ratio,600
+262,263,Ice water mixing ratio,600
+263,264,Rain mixing ratio,600
+264,265,Snow mixing ratio,600
+265,266,Graupel (snow pellets),600
+266,267,Icing severity,600
+267,268,Geopotential Height,650
+268,269,Temperature,650
+269,270,Relative humidity,650
+270,271,Total Cloud Cover,650
+271,272,Vertical velocity,650
+272,273,Geometric vertical velocity,650
+273,274,U component of wind,650
+274,275,V component of wind,650
+275,276,Absolute vorticity,650
+276,277,Cloud mixing ratio,650
+277,278,Ice water mixing ratio,650
+278,279,Rain mixing ratio,650
+279,280,Snow mixing ratio,650
+280,281,Graupel (snow pellets),650
+281,282,Icing severity,650
+282,283,Geopotential Height,700
+283,284,Temperature,700
+284,285,Relative humidity,700
+285,286,Total Cloud Cover,700
+286,287,Vertical velocity,700
+287,288,Geometric vertical velocity,700
+288,289,U component of wind,700
+289,290,V component of wind,700
+290,291,Absolute vorticity,700
+291,292,Cloud mixing ratio,700
+292,293,Ice water mixing ratio,700
+293,294,Rain mixing ratio,700
+294,295,Snow mixing ratio,700
+295,296,Graupel (snow pellets),700
+296,297,Icing severity,700
+297,298,Ozone mixing ratio,700
+298,299,Geopotential Height,750
+299,300,Temperature,750
+300,301,Relative humidity,750
+301,302,Total Cloud Cover,750
+302,303,Vertical velocity,750
+303,304,Geometric vertical velocity,750
+304,305,U component of wind,750
+305,306,V component of wind,750
+306,307,Absolute vorticity,750
+307,308,Cloud mixing ratio,750
+308,309,Ice water mixing ratio,750
+309,310,Rain mixing ratio,750
+310,311,Snow mixing ratio,750
+311,312,Graupel (snow pellets),750
+312,313,Icing severity,750
+313,314,Geopotential Height,800
+314,315,Temperature,800
+315,316,Relative humidity,800
+316,317,Total Cloud Cover,800
+317,318,Vertical velocity,800
+318,319,Geometric vertical velocity,800
+319,320,U component of wind,800
+320,321,V component of wind,800
+321,322,Absolute vorticity,800
+322,323,Cloud mixing ratio,800
+323,324,Ice water mixing ratio,800
+324,325,Rain mixing ratio,800
+325,326,Snow mixing ratio,800
+326,327,Graupel (snow pellets),800
+327,328,Icing severity,800
+328,329,Geopotential Height,850
+329,330,Temperature,850
+330,331,Relative humidity,850
+331,332,Total Cloud Cover,850
+332,333,Vertical velocity,850
+333,334,Geometric vertical velocity,850
+334,335,U component of wind,850
+335,336,V component of wind,850
+336,337,Absolute vorticity,850
+337,338,Cloud mixing ratio,850
+338,339,Ice water mixing ratio,850
+339,340,Rain mixing ratio,850
+340,341,Snow mixing ratio,850
+341,342,Graupel (snow pellets),850
+342,343,Icing severity,850
+343,344,Ozone mixing ratio,850
+344,345,Geopotential Height,900
+345,346,Temperature,900
+346,347,Relative humidity,900
+347,348,Total Cloud Cover,900
+348,349,Vertical velocity,900
+349,350,Geometric vertical velocity,900
+350,351,U component of wind,900
+351,352,V component of wind,900
+352,353,Absolute vorticity,900
+353,354,Cloud mixing ratio,900
+354,355,Ice water mixing ratio,900
+355,356,Rain mixing ratio,900
+356,357,Snow mixing ratio,900
+357,358,Graupel (snow pellets),900
+358,359,Icing severity,900
+359,360,Geopotential Height,925
+360,361,Temperature,925
+361,362,Relative humidity,925
+362,363,Total Cloud Cover,925
+363,364,Vertical velocity,925
+364,365,Geometric vertical velocity,925
+365,366,U component of wind,925
+366,367,V component of wind,925
+367,368,Absolute vorticity,925
+368,369,Cloud mixing ratio,925
+369,370,Ice water mixing ratio,925
+370,371,Rain mixing ratio,925
+371,372,Snow mixing ratio,925
+372,373,Graupel (snow pellets),925
+373,374,Geopotential Height,950
+374,375,Temperature,950
+375,376,Relative humidity,950
+376,377,Total Cloud Cover,950
+377,378,Vertical velocity,950
+378,379,Geometric vertical velocity,950
+379,380,U component of wind,950
+380,381,V component of wind,950
+381,382,Absolute vorticity,950
+382,383,Cloud mixing ratio,950
+383,384,Ice water mixing ratio,950
+384,385,Rain mixing ratio,950
+385,386,Snow mixing ratio,950
+386,387,Graupel (snow pellets),950
+387,388,Icing severity,950
+388,389,Haines Index,0
+389,390,Geopotential Height,975
+390,391,Temperature,975
+391,392,Relative humidity,975
+392,393,Total Cloud Cover,975
+393,394,Vertical velocity,975
+394,395,Geometric vertical velocity,975
+395,396,U component of wind,975
+396,397,V component of wind,975
+397,398,Absolute vorticity,975
+398,399,Cloud mixing ratio,975
+399,400,Ice water mixing ratio,975
+400,401,Rain mixing ratio,975
+401,402,Snow mixing ratio,975
+402,403,Graupel (snow pellets),975
+403,404,Temperature,1000
+404,405,Relative humidity,1000
+405,406,Total Cloud Cover,1000
+406,407,Vertical velocity,1000
+407,408,Geometric vertical velocity,1000
+408,409,U component of wind,1000
+409,410,V component of wind,1000
+410,411,Absolute vorticity,1000
+411,412,Cloud mixing ratio,1000
+412,413,Ice water mixing ratio,1000
+413,414,Rain mixing ratio,1000
+414,415,Snow mixing ratio,1000
+415,416,Graupel (snow pellets),1000
+416,417,Icing severity,1000
+417,418,Ozone mixing ratio,1000
+418,419,MSLP (Eta model reduction),0
+419,420,Geopotential Height,1000
+420,421,Surface pressure,0
+421,422,Orography,0
+422,423,Temperature,0
+423,424,Soil Temperature,0
+424,425,Volumetric soil moisture content,0
+425,426,Soil Temperature,0
+426,427,Volumetric soil moisture content,0
+427,428,Soil Temperature,0
+428,429,Volumetric soil moisture content,0
+429,430,Soil Temperature,1
+430,431,Volumetric soil moisture content,1
+431,432,Water equivalent of accumulated snow depth,0
+432,433,Snow depth,0
+433,434,Potential evaporation rate,0
+434,435,2 metre temperature,2
+435,436,Specific humidity,2
+436,437,2 metre dewpoint temperature,2
+437,438,2 metre relative humidity,2
+438,439,Apparent temperature,2
+439,440,Maximum temperature,2
+440,441,Minimum temperature,2
+441,442,10 metre U wind component,10
+442,443,10 metre V wind component,10
+443,444,Ice growth rate,10
+444,445,Percent frozen precipitation,0
+445,446,Convective precipitation rate,0
+446,447,Precipitation rate,0
+447,448,Convective precipitation rate,0
+448,449,Precipitation rate,0
+449,450,Total Precipitation,0
+450,451,Total Precipitation,0
+451,452,Convective precipitation (water),0
+452,453,Convective precipitation (water),0
+453,454,Water runoff,0
+454,455,Categorical snow,0
+455,456,Categorical ice pellets,0
+456,457,Categorical freezing rain,0
+457,458,Categorical rain,0
+458,459,Categorical snow,0
+459,460,Categorical ice pellets,0
+460,461,Categorical freezing rain,0
+461,462,Categorical rain,0
+462,463,Latent heat net flux,0
+463,464,Sensible heat net flux,0
+464,465,Ground heat flux,0
+465,466,"Momentum flux, u component",0
+466,467,"Momentum flux, v component",0
+467,468,Zonal flux of gravity wave stress,0
+468,469,Meridional flux of gravity wave stress,0
+469,470,Wilting Point,0
+470,471,Field Capacity,0
+471,472,Sunshine Duration,0
+472,473,Surface lifted index,0
+473,474,Convective available potential energy,0
+474,475,Convective inhibition,0
+475,476,Precipitable water,0
+476,477,Cloud water,0
+477,478,Relative humidity,0
+478,479,Total ozone,0
+479,480,Total Cloud Cover,0
+480,481,Total Cloud Cover,0
+481,482,Total Cloud Cover,0
+482,483,Total Cloud Cover,0
+483,484,Pressure,0
+484,485,Pressure,0
+485,486,Pressure,0
+486,487,Pressure,0
+487,488,Pressure,0
+488,489,Pressure,0
+489,490,Pressure,0
+490,491,Pressure,0
+491,492,Temperature,0
+492,493,Temperature,0
+493,494,Temperature,0
+494,495,Total Cloud Cover,0
+495,496,Total Cloud Cover,0
+496,497,Cloud work function,0
+497,498,Downward short-wave radiation flux,0
+498,499,Downward long-wave radiation flux,0
+499,500,Upward short-wave radiation flux,0
+500,501,Upward long-wave radiation flux,0
+501,502,Upward short-wave radiation flux,0
+502,503,Upward long-wave radiation flux,0
+503,504,Storm relative helicity,3000
+504,505,U-component storm motion,6000
+505,506,V-component storm motion,6000
+506,507,Pressure,0
+507,508,ICAO Standard Atmosphere reference height,0
+508,509,Geopotential Height,0
+509,510,Temperature,0
+510,511,U component of wind,0
+511,512,V component of wind,0
+512,513,Vertical speed shear,0
+513,514,Pressure,0
+514,515,ICAO Standard Atmosphere reference height,0
+515,516,Geopotential Height,0
+516,517,U component of wind,0
+517,518,V component of wind,0
+518,519,Temperature,0
+519,520,U component of wind,20
+520,521,V component of wind,20
+521,522,U component of wind,30
+522,523,V component of wind,30
+523,524,U component of wind,40
+524,525,V component of wind,40
+525,526,U component of wind,50
+526,527,V component of wind,50
+527,528,Temperature,80
+528,529,Specific humidity,80
+529,530,Pressure,80
+530,531,U component of wind,80
+531,532,V component of wind,80
+532,533,Temperature,100
+533,534,U component of wind,100
+534,535,V component of wind,100
+535,536,Temperature,1829
+536,537,U component of wind,1829
+537,538,V component of wind,1829
+538,539,Temperature,2743
+539,540,U component of wind,2743
+540,541,V component of wind,2743
+541,542,Temperature,3658
+542,543,U component of wind,3658
+543,544,V component of wind,3658
+544,545,Geopotential Height,0
+545,546,Relative humidity,0
+546,547,Geopotential Height,0
+547,548,Relative humidity,0
+548,549,Temperature,3000
+549,550,Relative humidity,3000
+550,551,Specific humidity,3000
+551,552,U component of wind,3000
+552,553,V component of wind,3000
+553,554,Best (4-layer) lifted index,0
+554,555,Convective available potential energy,18000
+555,556,Convective inhibition,18000
+556,557,Planetary boundary layer height,0
+557,558,Relative humidity,0
+558,559,Relative humidity,0
+559,560,Relative humidity,1
+560,561,Relative humidity,0
+561,562,Temperature,1
+562,563,Potential temperature,1
+563,564,Relative humidity,1
+564,565,U component of wind,1
+565,566,V component of wind,1
+566,567,Vertical velocity,1
+567,568,Convective available potential energy,25500
+568,569,Convective inhibition,25500
+569,570,Pressure of level from which parcel was lifted,25500
+570,571,Land-sea mask,0
+571,572,Sea ice area fraction,0
+572,573,Albedo,0
+573,574,U component of wind,2
+574,575,V component of wind,2
+575,576,Temperature,2
+576,577,Geopotential Height,2
+577,578,Pressure,2
+578,579,Vertical speed shear,2
+579,580,U component of wind,2147486
+580,581,V component of wind,2147486
+581,582,Temperature,2147486
+582,583,Geopotential Height,2147486
+583,584,Pressure,2147486
+584,585,Vertical speed shear,2147486
+585,586,Pressure reduced to MSL,0
+586,587,5-wave geopotential height,500
+587,588,"Land-sea coverage (nearest neighbor) [land=1,sea=0]",0
