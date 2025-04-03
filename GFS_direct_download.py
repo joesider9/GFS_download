@@ -4,8 +4,8 @@ import wget, os, time
 import pygrib, shutil, joblib
 
 output = 'output'
-path_nwp = '/media/smartrue/HHD2/GFS_05/Azores'
-path_temp = '/media/smartrue/HHD2/GFS_05/temp'
+path_nwp = ''
+path_temp = ''
 
 if not os.path.exists(path_temp):
     os.makedirs(path_nwp)

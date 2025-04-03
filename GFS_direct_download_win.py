@@ -143,8 +143,8 @@ def download(d, output,path_nwp, path_temp, upds):
 if __name__ == '__main__':
 
     output = 'output'
-    path_nwp = 'D:/Dropbox/GFS_05/Azores'
-    path_temp = 'C:/GFS_05/temp'
+    path_nwp = ''
+    path_temp = ''
 
     if not os.path.exists(path_nwp):
         os.makedirs(path_nwp)

@@ -15,8 +15,8 @@ geometry = ee.Geometry.Rectangle([[36.5, -33],
 
 
 output = 'output'
-path_nwp = '/media/smartrue/HHD2/GFS/Azores'
-path_temp = '/media/smartrue/HHD2/GFS/temp'
+path_nwp = ''
+path_temp = ''
 if not os.path.exists(path_temp):
     os.makedirs(path_nwp)
 if not os.path.exists(path_temp):
